@@ -1,4 +1,3 @@
 # Prakyath-demo
-This is my repo
-<br/>
+This is my repo <br/>
 Author- PRAKYATH
